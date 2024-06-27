@@ -2,6 +2,10 @@
 
 https://jericfederer97.github.io/react-youtube-clone/
 
+# YouTube Clone
+
+A YouTube clone using RapidAPI, React and Material UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
