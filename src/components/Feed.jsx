@@ -35,7 +35,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          Copyright 2023 Piano Coder Odyssey
+          Copyright 2024 tokiochouetsu
         </Typography>
       </Box>
 
@@ -49,7 +49,7 @@ const Feed = () => {
           mb={2}
           sx={{ color: "white" }}
         >
-          {selectedCategory} <span style={{ color: "#F31503" }}> Videos </span>
+          {selectedCategory} <span style={{ color: "#19ad95" }}> Videos </span>
         </Typography>
 
         <Videos videos={videos} />

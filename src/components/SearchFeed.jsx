@@ -25,7 +25,7 @@ const SearchFeed = () => {
         mb={2}
         sx={{ color: "white" }}
       >
-        Search results for: <span style={{ color: "#F31503" }}>{ searchTerm }</span> Videos
+        Search results for: <span style={{ color: "#19ad95" }}>{ searchTerm }</span> Videos
       </Typography>
 
       <Videos videos={videos} />
